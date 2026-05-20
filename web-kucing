@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Klub Pecinta Kucing</title>
+    <style>
+        body { font-family: sans-serif; background-color: #f9f9f9; color: #333; text-align: center; padding: 20px; }
+        header { background-color: #ff9999; color: white; padding: 20px; border-radius: 10px; }
+        .konten { margin-top: 30px; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        ul { text-align: left; display: inline-block; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>🐾 Selamat Datang Pecinta Kucing! 🐾</h1>
+        <p>Tempat berkumpulnya manusia yang hobi jadi babu kucing.</p>
+    </header>
+
+    <div class="konten">
+        <h2>Kenapa Kucing Sangat Menggemaskan?</h2>
+        <ul>
+            <li>Suara *purring* yang bikin tenang.</li>
+            <li>Tingkahnya yang random dan lucu.</li>
+            <li>Wajahnya yang imut saat minta makan.</li>
+        </ul>
+        <br>
+        <p><em>"Sebuah rumah tanpa kucing hanyalah sebuah bangunan."</em></p>
+    </div>
+
+</body>
+</html>
